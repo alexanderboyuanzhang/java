@@ -1,4 +1,4 @@
-package com.runtime;
+package bz.runtime;
 /**
  * @description: Prints JVM memory utilization statistics
  */
